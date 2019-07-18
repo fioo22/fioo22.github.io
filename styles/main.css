@@ -1004,8 +1004,11 @@ transform:rotate(360deg);
 
 .site-header .menu-container a.menu:hover{
 transition:all .6s;
-border-radius:4px;
-color:#fff;
-background-color:#f9d654;
+color:#2ecc71;
+ box-sizing: border-box;
+border-bottom:3px solid #2ecc71;
+}
+.post-container .post .post-title{
+font-size:26px;
 }
     
