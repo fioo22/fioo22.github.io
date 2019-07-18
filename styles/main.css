@@ -1011,7 +1011,13 @@ color:#2ecc71;
  box-sizing: border-box;
 border-bottom:3px solid #2ecc71;
 }
+
 .post-container .post .post-title{
 font-size:26px;
+}
+
+.post-detail .post .post-title{
+font-size:23px;
+color:#555;
 }
     
