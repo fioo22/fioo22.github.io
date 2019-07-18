@@ -1001,6 +1001,10 @@ transform:rotate(360deg);
 -o-transform:rotate(360deg); 
 }
 
+.site-header .menu-container a.menu{
+border-bottom:3px solid #fff;
+}
+
 .site-header .menu-container a.menu:hover{
 transition:all .6s;
 color:#2ecc71;
