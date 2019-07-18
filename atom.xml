@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fioo22.github.io/</id>
     <title>fioo22</title>
-    <updated>2019-07-18T06:49:57.058Z</updated>
+    <updated>2019-07-18T06:56:32.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fioo22.github.io/"/>
     <link rel="self" href="https://fioo22.github.io//atom.xml"/>
-    <subtitle>&lt;span style=&quot;font-size:16px; color:#2ecc71; text-shadow:2px 2px 5px #fff;&quot;&gt;一路失败，一路成功。&lt;/span&gt;</subtitle>
+    <subtitle>&lt;meta name=&quot;keywords&quot;  content=&quot;即步fioo22,fioo22,fioo22博客,即步博客,即步fioo22博客&quot;&gt;
+&lt;meta name=&quot;description&quot; content=&quot;即步fioo22上线啦,fioo22&quot;&gt;</subtitle>
     <logo>https://fioo22.github.io//images/avatar.png</logo>
     <icon>https://fioo22.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, fioo22</rights>
