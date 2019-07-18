@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fioo22.github.io/</id>
-    <title>即步 | fioo22</title>
-    <updated>2019-07-18T05:17:43.796Z</updated>
+    <title>fioo22</title>
+    <updated>2019-07-18T05:25:28.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fioo22.github.io/"/>
     <link rel="self" href="https://fioo22.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一路失败，一路成功</subtitle>
     <logo>https://fioo22.github.io//images/avatar.png</logo>
     <icon>https://fioo22.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 即步 | fioo22</rights>
+    <rights>All rights reserved 2019, fioo22</rights>
+    <entry>
+        <title type="html"><![CDATA[即步fioo22博客上线啦]]></title>
+        <id>https://fioo22.github.io//post/ji-bu-fioo22-bo-ke-shang-xian-la</id>
+        <link href="https://fioo22.github.io//post/ji-bu-fioo22-bo-ke-shang-xian-la">
+        </link>
+        <updated>2019-07-18T05:23:00.000Z</updated>
+        <content type="html"><![CDATA[<p>fioo</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://fioo22.github.io//post/hello-gridea</id>
