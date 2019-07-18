@@ -979,10 +979,9 @@ td {
       }
     
       .site-header .site-description{
-color:#2ecc71;
-text-shadow:3px 3px 3px #f1c40f;
-padding:0 0 10px 0;
-font-weight:bold;
+color:#969696;
+padding:10px 0;
+font-size:12px;
 }
 
 .site-header .site-title{
