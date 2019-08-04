@@ -966,21 +966,43 @@ td {
         font-family: -apple-system,BlinkMacSystemFont,'Helvetica Neue','PingFang SC','Hiragino Sans GB','Droid Sans Fallback','Microsoft YaHei',sans-serif;
       }
     
-      .site-header .menu-container a.menu:hover{
-color:#FE9600;
+      .site-header .site-title{
+font-size:30px;
+color:#01a3a4;
+}
+
+.post-container .post .post-info .post-tag{
+color:#88B9BA;
+}
+
+.post-container .post .post-info .post-tag:hover{
+color:#01a3a4;
 }
 
 .post-container .post .post-title{
-color:#222;
+color:#88B9BA;
 transition:all .6s;
 }
 
-.post-container .post .post-title:hover{
-color:#FE9600;
+.post-container .post:hover .post-title{
+color:#01a3a4;
+}
+
+.site-header .site-description{
+font-size:13px;
+}
+
+.site-header .menu-container a.menu{
+color:#88B9BA;
+font-weight: 900;
+}
+
+.site-header .menu-container a.menu:hover{
+color:#01a3a4;
 }
 
 .post-detail .post .post-title{
-color:#FE9600;
+color:#01a3a4;
 font-size:29px;
 }
     
