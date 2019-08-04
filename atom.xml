@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fioo22.github.io/</id>
     <title>即步fioo</title>
-    <updated>2019-08-02T17:51:25.480Z</updated>
+    <updated>2019-08-04T03:36:28.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fioo22.github.io/"/>
     <link rel="self" href="https://fioo22.github.io//atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://fioo22.github.io//images/avatar.png</logo>
     <icon>https://fioo22.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 即步fioo</rights>
+    <entry>
+        <title type="html"><![CDATA[图标]]></title>
+        <id>https://fioo22.github.io//post/tu-biao</id>
+        <link href="https://fioo22.github.io//post/tu-biao">
+        </link>
+        <updated>2019-08-04T03:33:30.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="ps制作">Ps制作...</h2>
+<p>学习Ps中...,下个目标AI...</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人手一套CTRL + C + V]]></title>
         <id>https://fioo22.github.io//post/ren-shou-yi-ge-ctrl-c-v</id>
