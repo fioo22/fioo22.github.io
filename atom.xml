@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fioo22.github.io/</id>
     <title>即步fioo</title>
-    <updated>2019-08-04T03:53:22.551Z</updated>
+    <updated>2019-08-04T04:18:10.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fioo22.github.io/"/>
     <link rel="self" href="https://fioo22.github.io//atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://fioo22.github.io//post/tu-biao">
         </link>
         <updated>2019-08-04T03:33:30.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="ps制作">Ps制作...</h2>
-<p>学习Ps中...,下个目标AI...</p>
+        <content type="html"><![CDATA[<p>博主啥也没说...</p>
 ]]></content>
     </entry>
     <entry>
@@ -36,7 +35,7 @@
         <link href="https://fioo22.github.io//post/qing-liang-ning-meng-ps-zhi-zuo">
         </link>
         <updated>2019-08-01T02:27:42.000Z</updated>
-        <content type="html"><![CDATA[<p>细节处理的不是很好。</p>
+        <content type="html"><![CDATA[<p>博主啥也没说...</p>
 ]]></content>
     </entry>
     <entry>
@@ -80,7 +79,7 @@
         <link href="https://fioo22.github.io//post/zui-jin-bu-zai-zhuang-tai-a">
         </link>
         <updated>2019-07-21T15:31:58.000Z</updated>
-        <content type="html"><![CDATA[<p>....</p>
+        <content type="html"><![CDATA[<p>博主啥也没说...</p>
 ]]></content>
     </entry>
 </feed>
